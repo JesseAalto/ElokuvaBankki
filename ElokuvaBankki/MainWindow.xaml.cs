@@ -25,6 +25,7 @@ namespace ElokuvaBankki
             InitializeComponent();
             //moi
             //helo
+            // vitun paviaani
         }
     }
 }

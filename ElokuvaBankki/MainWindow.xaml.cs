@@ -23,6 +23,7 @@ namespace ElokuvaBankki
         public MainWindow()
         {
             InitializeComponent();
+            //moi
         }
     }
 }

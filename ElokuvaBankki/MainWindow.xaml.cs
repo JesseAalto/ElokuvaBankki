@@ -24,6 +24,7 @@ namespace ElokuvaBankki
         {
             InitializeComponent();
             //moi
+            //helo
         }
     }
 }
